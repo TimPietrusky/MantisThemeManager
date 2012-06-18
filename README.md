@@ -29,9 +29,7 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 #### Preview
 
-![rockstar theme for MantisBT](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png)
-
-<img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.pn" width="100" height="100">
+<img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png" height="250" alt="rockstar theme for MantisBT">
 
 
 ## License
