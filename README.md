@@ -36,10 +36,10 @@ Please create a pull request or issue or what ever to add your theme to the list
 
 #### How to submit a theme
 
-1. Your theme should have a unique name like `mythemename`
-2. Name your css `default.css` and drop it under `mythemename/default.css`
-3. Create a preview image of your theme, name it `mythemename` and drop it under `mythemename/mythemenamge.png`
-4. Create what ever subfolders as you like (e. g. `mythemename/img` for images used in your `default.css`)
+1. Your theme should have a unique name like `mytheme`
+2. Name your css `default.css` and drop it under `mytheme/default.css`
+3. Create a preview image of your theme, name it `mytheme` and drop it under `mytheme/mytheme.png`
+4. Create what ever subfolders you like (e. g. `mytheme/img` for images used in your `default.css`)
 
 
 ## License
