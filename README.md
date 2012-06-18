@@ -1,6 +1,6 @@
 # MantisBT Theme Manager
 
-A Theme Manager for MantisBT.
+A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bugtracking system.
 
 2012 by http://tim-pietrusky.de
 
