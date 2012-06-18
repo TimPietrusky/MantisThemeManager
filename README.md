@@ -27,7 +27,7 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 <img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png" height="200" alt="rockstar theme for MantisBT">
 
-[Download](http://github.com/TimPietrusky/MantisThemeManager/zipball/master)
+[Download](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/zipball/master)
 
 
 ### Your theme
