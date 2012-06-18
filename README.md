@@ -25,11 +25,9 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 ### MantisBT is a ☆ ✪ ★ rockstar
 
+<img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png" height="200" alt="rockstar theme for MantisBT">
+
 [Download](http://github.com/TimPietrusky/MantisThemeManager/zipball/master)
-
-#### Preview
-
-<img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png" height="250" alt="rockstar theme for MantisBT">
 
 
 ## License
