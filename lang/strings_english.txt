@@ -1,0 +1,18 @@
+<?php
+
+$s_plugin_themeManager_ = '';
+$s_plugin_themeManager_title = 'MantisBT Theme Manager';
+$s_plugin_themeManager_logo = 'Choose Logo';
+$s_plugin_themeManager_config = 'Choose Theme';
+$s_plugin_themeManager_preview = 'Preview';
+$s_plugin_themeManager_category_row_theme = 'Theme';
+$s_plugin_themeManager_category_row_selected = 'Active';
+$s_plugin_themeManager_category_row_preview = 'Preview';
+$s_plugin_themeManager_notice_themes_folder = 'Please create the "themes"-folder in &lt;mantis_root&gt;/css/';
+$s_plugin_themeManager_choose = 'Change theme';
+
+// Help
+$s_plugin_themeManager_help_title = 'Instructions';
+$s_plugin_themeManager_help_li_1 = 'Create the <b>themes</b> folder: &lt;mantis-root&gt;/css/themes';
+$s_plugin_themeManager_help_li_2 = 'Copy a theme to the <b>themes</b> folder, e. g. you have a rockstar theme: &lt;mantis-root&gt;css/theme/rockstar';
+$s_plugin_themeManager_help_li_3 = 'Choose from one of the themes above';
