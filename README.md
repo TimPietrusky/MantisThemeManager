@@ -19,7 +19,7 @@ A Theme Manager for MantisBT.
 
 ## How to use
 
-Follow the **Instructions** of the **MantisBT Theme Manager** page
+Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 ## Themes
 
