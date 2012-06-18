@@ -17,6 +17,16 @@ A Theme Manager for MantisBT.
 5. Go to *Manage / Manage Plugins* and hit the *Install* action for **MantisBT Theme Manager**
 6. Click on the **MantisBT Theme Manager x.x.x** link to open the *choose a theme*-page
 
+## Themes
+
+### MantisBT is a ☆ ✪ ★ rockstar
+
+#### Download
+[Download](http://github.com/TimPietrusky/MantisThemeManager/zipball/master)
+
+#### Preview
+
+
 ## License
 
 Licensed under [VVL 1.33b7](http://tim-pietrusky.de/license) which means this **work** is free for all, so use it as you like.
