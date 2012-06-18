@@ -29,7 +29,7 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 #### Preview
 
-![rockstar theme for MantisBT](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/blob/master/rockstar/rockstar.png)
+![rockstar theme for MantisBT](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png)
 
 
 ## License
