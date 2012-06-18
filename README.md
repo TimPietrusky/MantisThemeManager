@@ -14,7 +14,7 @@ A Theme Manager for MantisBT.
 2. Unpack
 3. Rename the unpacked folder `TimPietrusky-MantisThemeManager-xxxxxxx` to `MantisThemeManager`
 4. Copy the `MantisThemeManager` folder to `<mantis-root>/plugins/`
-5. Go to ''Manage / Manage Plugins'' and hit the ''Install'' action for '''MantisBT Theme Manager'''
+5. Go to *Manage / Manage Plugins* and hit the *Install* action for **MantisBT Theme Manager**
 6. Click on the link `MantisBT Theme Manager x.x.x` to choose a theme
 
 ## License
