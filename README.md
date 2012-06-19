@@ -8,6 +8,10 @@ A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bug
 
 0.0.1 (20120619)
 
+## In Action
+
+![preview](http://tim-pietrusky.de/img/mantisbt_theme_mananger_preview.png)
+
 ## Install
 
 1. [Download](http://github.com/TimPietrusky/MantisThemeManager/zipball/master)
