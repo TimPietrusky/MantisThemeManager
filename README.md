@@ -30,7 +30,7 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 [Download](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/zipball/master)
 
 
-### <Your theme>
+### &lt;Your theme&gt;
 
 Please create a pull request or issue or what ever to add your theme to the list.
 
