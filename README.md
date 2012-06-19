@@ -30,7 +30,7 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 [Download](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/zipball/master)
 
 
-### Your theme
+### <Your theme>
 
 Please create a pull request or issue or what ever to add your theme to the list.
 
@@ -40,6 +40,10 @@ Please create a pull request or issue or what ever to add your theme to the list
 2. Name your css `default.css` and drop it under `mytheme/default.css`
 3. Create a preview image of your theme, name it `mytheme.png` and drop it under `mytheme/mytheme.png`
 4. Create what ever subfolders you like (e. g. `mytheme/img` for images used in your `default.css`)
+
+## ToDo
+
+ - Create a web page which is dedicated to themes
 
 
 ## License
