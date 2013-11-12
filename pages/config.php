@@ -161,7 +161,7 @@ function getThemes(&$error) {
                 if ($theme_name !== '.' && $theme_name !== '..') {
                     $themes[] = array(
                         'name' => $theme_name,
-                        'img' => "../css/themes/$theme_name/" . $theme_name . ".png",
+                        'img' => "./css/themes/$theme_name/" . $theme_name . ".png",
                         'isActive' => $active_theme == $theme_name
                     );
                 }
