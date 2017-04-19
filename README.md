@@ -28,7 +28,9 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 ## Themes
 
-### MantisBT is a ☆ ✪ ★ rockstar
+### Mantis-Suke-Theme
+- adds gradient to bug list rows
+- provides a base for more visual optimization
 
 <img src="https://github.com/Samunosuke/mantis-suke-theme/blob/master/suke/suke.png" height="200" alt="suke theme for MantisBT">
 
