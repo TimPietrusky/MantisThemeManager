@@ -50,7 +50,7 @@ Please create a pull request or issue or what ever to add your theme to the list
 
 ## ToDo
 
- - Create a web page which is dedicated to themes
+ - Add more themes
 
 
 ## License
