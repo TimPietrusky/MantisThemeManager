@@ -3,10 +3,11 @@
 A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bugtracking system.
 
 2012 by http://tim-pietrusky.de
+2017 updated by Samunosuke
 
 ## Version
 
-0.0.1 (20120619)
+0.0.2 (20170420)
 
 ## In Action
 
@@ -14,7 +15,7 @@ A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bug
 
 ## Install
 
-1. [Download](http://github.com/TimPietrusky/MantisThemeManager/zipball/master)
+1. [Download](https://github.com/Samunosuke/MantisThemeManager/zipball/master)
 2. Unpack
 3. Rename the unpacked folder `TimPietrusky-MantisThemeManager-xxxxxxx` to `MantisThemeManager`
 4. Copy the `MantisThemeManager` folder to `<mantis-root>/plugins/`
@@ -29,9 +30,9 @@ Follow the **Instructions** on the **MantisBT Theme Manager** page.
 
 ### MantisBT is a ☆ ✪ ★ rockstar
 
-<img src="http://github.com/TimPietrusky/mantisbt-is-a-rockstar/raw/master/rockstar/rockstar.png" height="200" alt="rockstar theme for MantisBT">
+<img src="https://github.com/Samunosuke/mantis-suke-theme/blob/master/suke/suke.png" height="200" alt="suke theme for MantisBT">
 
-[Download](http://github.com/TimPietrusky/mantisbt-is-a-rockstar/zipball/master)
+[Download](https://github.com/Samunosuke/mantis-suke-theme/zipball/master)
 
 
 ### &lt;Your theme&gt;
