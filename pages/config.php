@@ -1,8 +1,10 @@
 <?php
+/* edited by Samunosuke to meet MantisBT 2.x api changes */
 auth_reauthenticate( );
 access_ensure_global_level(config_get('manage_plugin_threshold'));
 
-html_page_top(lang_get('plugin_themeManager_title'));
+layout_page_header(lang_get('plugin_themeManager_title'));
+layout_page_begin();
 
 print_manage_menu();
 
@@ -132,7 +134,7 @@ $themes = getThemes($error);
 ?>
 
 <?php
-html_page_bottom();
+layout_page_end();
 
 
 
