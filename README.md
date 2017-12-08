@@ -8,6 +8,7 @@ A Theme Manager for [MantisBT](http://www.mantisbt.org/), the free web-based bug
 ## Version
 
 0.0.2 (20170420)
+Tested with 2.3 and Mantis 2.9
 
 ## In Action
 
